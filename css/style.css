@@ -1,12 +1,16 @@
 /* Custom Styles */
 
 a {
-  color: #FF906D;
+  color: #000;
   text-decoration: none;
 }
 
 a:hover {
   color: #000;
+}
+
+.orange-text {
+  color: #FF906D !important;
 }
 
 .alert-primary {
